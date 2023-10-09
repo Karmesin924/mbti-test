@@ -7,7 +7,7 @@ const MainTitle = () => {
       <p className={styles.title_bold}>나와 어울리는 고양이 찾기</p>
       <img
         className={styles.title_img}
-        src="https://github.com/Karmesin924/mbti-test/blob/main/public/cats.png?raw=true"
+        src="https://mbti-test-gamma.vercel.app/public/cats.png"
       />
     </div>
   );
